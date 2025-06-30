@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23045
-Fork on GitHub
-7754
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Rashin</h1>
 <h3 align="center">A front-end-focused developer with additional knowledge of back-end technologies.</h3>
 
