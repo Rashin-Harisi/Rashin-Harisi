@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **rashin.harisi@gmail.com**
 
-- 📄 Know about my experiences [www.rashinharisi.com](www.rashinharisi.com)
+- 📄 Know about my experiences [www.rashinharisi.com](https://www.rashinharisi.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
