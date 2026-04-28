@@ -7,7 +7,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="left" style="display:inlin-block">
 <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>&nbsp;
 <a href="https://appwrite.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/></a>&nbsp;
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;
